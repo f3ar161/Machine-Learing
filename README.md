@@ -1,3 +1,3 @@
-# practicePython
+# Machine Learing 
 
-Random projects with python :)
+Usefull projects to learn ML with python
