@@ -1,3 +1,3 @@
 # Machine Learing 
 
-Usefull projects to learn ML with python
+Useful projects to learn ML with python
